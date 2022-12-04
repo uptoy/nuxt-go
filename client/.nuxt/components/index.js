@@ -1,6 +1,7 @@
+export { default as Message } from '../../components/Message.vue'
 export { default as NuxtLogo } from '../../components/NuxtLogo.vue'
+export { default as Sample } from '../../components/Sample.vue'
 export { default as Tutorial } from '../../components/Tutorial.vue'
-export { default as VuetifyLogo } from '../../components/VuetifyLogo.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

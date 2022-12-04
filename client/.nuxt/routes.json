@@ -1,14 +1,9 @@
 [
   {
-    "name": "inspire",
-    "path": "/inspire",
-    "component": "/Users/admin/Desktop/nuxt-go/client/pages/inspire.vue",
-    "chunkName": "pages/inspire"
-  },
-  {
     "name": "index",
     "path": "/",
     "component": "/Users/admin/Desktop/nuxt-go/client/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_41ad790b"
   }
 ]
